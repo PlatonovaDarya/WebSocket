@@ -1,0 +1,23 @@
+.chatbox {
+  width: 300px;
+  height: 200px;
+  border: 1px solid black;
+  background-color: rgb(219, 255, 190);
+  overflow-y: scroll;
+  padding: 10px;
+}
+
+.messageInput {
+  width: 280px;
+  padding: 5px;
+  margin-top: 10px;
+  border: 1px solid black;
+}
+
+.sendButton {
+  padding: 5px 10px;
+  margin-left: 10px;
+  border: 1px solid black;
+  background-color: rgb(80, 224, 51);
+  border-radius: 5px;
+}
